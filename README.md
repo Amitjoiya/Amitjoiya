@@ -24,8 +24,8 @@
 
 ## 🧑‍💻 About Me
 
-🎓 **B.S. Computer Science & Data Analytics, IIT Patna** (PWIOI)  
-💼 **Backend & AI/ML Developer**  
+🎓 **B.S. Computer Science & Data Analytics, IIT Patna**  
+💼 **Backend & AI/ML Developer Intern**  
 🌱 _Passionate about scalable, AI-powered solutions & impactful open-source contributions_  
 🏆 **Top Open Source Contributor @ [FOSSASIA](https://github.com/fossasia/pslab-app/pull/2971)**  
 🚩 Rajasthan, India &nbsp;&nbsp;|&nbsp;&nbsp;☎️ +91 85294 54524  
