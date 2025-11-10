@@ -83,7 +83,7 @@
 [![PSLab App](https://img.shields.io/badge/FOSSASIA-PSLab--App-blueviolet?style=for-the-badge&logo=fossasia&logoColor=white)](https://github.com/fossasia/pslab-app)
 
 - 💻 Real-world science & coding for Android, powered by open-source!
-- 🏆 **Proud Contributor**: Merged major PRs in FOSSASIA’s PSLab-App ([see repo](https://github.com/fossasia/pslab-app))
+- 🏆 **Proud Contributor**: Merged major PRs in FOSSASIA’s PSLab-App ([see repo](https://github.com/fossasia/pslab-app/pull/2971))
 - **Stack:** Dart, C++, CMake, Java, Ruby, Swift
 
 ---
