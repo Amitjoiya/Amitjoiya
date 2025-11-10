@@ -63,6 +63,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FD5901&vCenter=true&width=600&lines=Hacktoberfest+2025+Super+Contributor!;Open+Source+Champion+%F0%9F%92%BC;Pull+requests+for+a+better+world!+%F0%9F%8D%8A" alt="Hacktoberfest Status" />
   <br><br>
+  <a href="https://www.holopin.io/@amitjoiya#badges" target="_blank">
+    <img src="https://holopin.me/amitjoiya" alt="Amit Joiya Holopin Badges Board" height="160"/>
+    <br>
+    <img src="https://img.shields.io/badge/View%20My%20Hacktoberfest%20Badges%20on%20Holopin-FD5901?style=for-the-badge&logo=holopin&logoColor=white" height="40"/>
+  </a>
+  <br>
   <img src="https://svg-badge.vercel.app/api/badge?content=Hacktoberfest%202025&icon=Octicons-Flame&color=FD5901" height="40" />
   <img src="https://img.shields.io/badge/Super%20Contributor-%23FD5901?style=for-the-badge&logo=hackthebox&logoColor=white" height="40"/>
   <img src="https://forthebadge.com/images/badges/you-are-awesome.svg" height="40"/>
