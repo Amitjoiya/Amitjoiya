@@ -21,7 +21,7 @@
   Currently pursuing B.S. in CS & Data Analytics at IIT Patna (PWIOI Program).
 - 🤖 **AI & ML Enthusiast**  
   Building scalable, AI-driven solutions.
-- 💡 **Open Source Contributor** with [FOSSASIA](https://github.com/fossasia), collaborative teamwork, and a passion for learning.
+- 💡 **Open Source Contributor** with [FOSSASIA](https://github.com/fossasia/pslab-app/pull/2971), collaborative teamwork, and a passion for learning.
 - 🏆 **Tech Blogger** & Data Viz Fan | [My Portfolio _(in progress)_](#)
 - 🏁 **Competitive Programmer**  
   Solving DSA on LeetCode & HackerRank.
@@ -60,7 +60,7 @@
 ## 🌟 Highlight: FOSSASIA Contribution
 
 ```markdown
-[PSLab App](https://github.com/fossasia/pslab-app)  
+[PSLab App](https://github.com/fossasia/pslab-app/pull/2971)  
 PSLab Android App – Explore, build & experiment with science!  
 Tech: Dart, C++, CMake, Java, Ruby, Swift
 
