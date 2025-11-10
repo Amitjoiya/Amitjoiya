@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1100&color=42E693&width=800&lines=Hi!+I'm+Amit+Joiya;Excited+Engineer 😁+from+India;AI+%7C+Open%20Source%20Enthusiast%20%7C%20IIT%20Patna;Let's%20build,%20learn%20and%20innovate%20together!" alt="Animated Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1100&color=42E693&width=800&lines=Hi!+I'm+Amit+Joiya;AI+%7C+Open%20Source%20Enthusiast%20%7C%20IIT%20Patna;Let's%20build,%20learn%20and%20innovate%20together!" alt="Animated Typing" />
 </p>
 
 <p align="center">
