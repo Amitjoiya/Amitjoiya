@@ -24,7 +24,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 **Bachelor's in Computer Science & Data Analytics, IIT Patna**  
+🎓 **Bachelor's in Computer Science, IIT Patna**  
 💼 **Backend & AI/ML Developer Intern**  
 🌱 _Passionate about scalable, AI-powered solutions & impactful open-source contributions_  
 🏆 **Top Open Source Contributor @ [FOSSASIA](https://github.com/fossasia/pslab-app/pull/2971)**  
