@@ -119,7 +119,7 @@
 ## 🎖️ Achievements & Honors
 
 - 🥇 Completed Deloitte Australia Technology Virtual Experience (Forage, 2025)
-- 🏆 Cleared PW IOI Exam & Interview for IIT Patna CSDA
+- 🏆 Cleared PW IOI Exam & Interview
 - ⭐ Certificate & LOR (IIT Delhi) for Campus Ambassador
 - 🔥 Hackathon & Coding Contest participant (LeetCode/HackerRank leader)
 - 📊 Built dashboards & data vizzes (Tata Consultancy Services simulation)
