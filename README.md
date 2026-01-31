@@ -5,17 +5,18 @@
 
 <!-- Matrix Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=%3E%3E+WELCOME+TO+MY+DIGITAL+WORLD+%3C%3C;%F0%9F%92%BB+Passionate+About+AI%2FML+%7C+IIT+Patna;%F0%9F%9A%80+Building+The+Future+With+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=%3E%3E+WELCOME+TO+MY+DIGITAL+WORLD+%3C%3C;%F0%9F%92%BB+Passionate+About+AI%2FML+%7C+IIT+Patna" alt="Typing SVG" />
 </p>
-
+<br>
 <!-- Super Cool GIF Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="280" />
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="280" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="280"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
 </p>
 
 <!-- Animated Profile Stats -->
@@ -36,7 +37,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="180"/>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
 
 🎓 **Bachelor's in Computer Science, IIT Patna**  
 💼 **Aspiring Software Engineer | Backend & AI/ML Enthusiast**  
@@ -135,7 +136,7 @@
 ## 🏅 Highlight Project: FOSSASIA PSLab-App
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="80"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
 </p>
 
 <p align="center">
@@ -155,7 +156,7 @@
 
 ## 💼 Experience
 
-<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="150"/>
+<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="180"/>
 
 ### 🚀 Backend Developer Intern – The ProEducator (Sep 2025–Present)
 - Developed scalable APIs (Node.js + Express)
@@ -177,7 +178,7 @@
 ## 🚀 Projects
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="80"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
 </p>
 
 | Project | Description | Tech |
